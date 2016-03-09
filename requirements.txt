@@ -1,0 +1,2 @@
+hidapi  # https://github.com/trezor/cython-hidapi
+        # Depends on: https://github.com/signal11/hidapi
