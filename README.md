@@ -11,9 +11,9 @@ green, red and yellow indicator, substitute `--blue` for yellow (they're wired t
 Requirements
 ============
 
-[cython-hidapi](https://github.com/trezor/cython-hidapi) - Cross platform library to control USB HID devices.
-
-[hidapi](https://github.com/signal11/hidapi) - Python wrapper for the hidapi
+* [cython-hidapi](https://github.com/trezor/cython-hidapi) - Python wrapper for the `hidapi` library below.
+    - _Confusingly installed via `pip install hidapi`_
+* [hidapi](https://github.com/signal11/hidapi) - Cross platform library to control USB HID devices
 
 Installation
 ============
